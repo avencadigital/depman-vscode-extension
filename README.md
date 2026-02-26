@@ -18,8 +18,6 @@
   Real-time dependency health monitoring with inline indicators, hover details, and one-click updates.
 </p>
 
-This is the public repository for the Dep-Man VSCode extension. This repository is used for issues and discussions.
-
 ## Installation
 
 You can install the Dep-Man VSCode extension from the Visual Studio Code Marketplace:
