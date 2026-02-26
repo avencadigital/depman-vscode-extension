@@ -28,8 +28,7 @@ You can install the Dep-Man VSCode extension from the Visual Studio Code Marketp
 
 ## Support
 
-For bug reports, feature requests, and general discussions, please use the [Issues](https://github.com/avencadigital/
-depman-vscode-extension/issues) section of this repository.
+For bug reports, feature requests, and general discussions, please use the [Issues](https://github.com/avencadigital/depman-vscode-extension/issues) section of this repository.
 
 <p align="center">
   <strong>Made with ❤️ by <a href="https://avenca.digital/">Avenca Digital</a></strong>
