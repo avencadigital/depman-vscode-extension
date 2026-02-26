@@ -22,7 +22,9 @@
 
 You can install the Dep-Man VSCode extension from the Visual Studio Code Marketplace:
 
-🔗 **[Install from VS Code Marketplace](https://marketplace.visualstudio.com/)**
+🔗 **[Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AvencaDigital.dep-man-vscode)**
+
+
 
 ## Support
 
