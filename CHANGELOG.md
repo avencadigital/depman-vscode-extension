@@ -1,5 +1,27 @@
 # Changelog
 
+## 2.5.5
+
+### Improvements
+
+- **Performance**: Improved cache behavior for faster repeated analyses
+- **Better file exclusion**: Exclusion patterns now support glob syntax, making file filtering more accurate and flexible
+- **Clearer status indicators**: Severity icons in CodeLens and the Problems panel have been simplified for easier reading at a glance
+- **Help links**: Quick access links to documentation and resources are now available directly in the sidebar
+
+
+### Fixes
+
+- Fixed parsing issues with dependencies that have null or empty versions
+- Improved detection of dependencies with non-standard formatting
+- Fixed edge cases in dependency detection across all supported ecosystems
+
+### Patches
+
+- Updated internal dependencies for improved stability and security
+
+---
+
 ## 2.5.0 - Initial Release
 
 First public release of Dep-Man on the VS Code Marketplace.
