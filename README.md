@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com//items?itemName=AvencaDigital.dep-man-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=AvencaDigital.dep-man-vscode">
     <img src="https://img.shields.io/badge/vscode-marketplace-blue?style=for-the-badge" alt="Visual Studio Marketplace">
   </a>
-  <a href="https://marketplace.visualstudio.com//items?itemName=AvencaDigital.dep-man-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=AvencaDigital.dep-man-vscode">
     <img src="https://img.shields.io/visual-studio-marketplace/v/AvencaDigital.dep-man-vscode?style=for-the-badge" alt="Visual Studio Version">
   </a>
   <a href="https://open-vsx.org/extension/AvencaDigital/dep-man-vscode">
